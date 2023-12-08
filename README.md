@@ -78,7 +78,7 @@ Opportunities	Threats
 Fig:1
 
 2.7 Design Diagram
- 
+ design diag.jpeg
  
 3. SYSTEM REQUIREMENTS  
 3.1 User Interface  
