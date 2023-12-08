@@ -1,4 +1,4 @@
-
+Author - Khushi Bansal, Ritika Kumari, Dhanraj Bhosale <br>
 1.	INTRODUCTION 
 The project includes a comprehensive overview of the Multiple Disease prediction model using machine learning (ML) models implemented in Python, and a user interface developed with Streamlit, the intuitive user interface to build an application. In today's world, the demand for healthcare data has significantly increased and allows us to develop accurate and user-friendly tools that will definitely ensure a significant impact on early diagnosis and treatment. The project focuses on addressing specific needs, and challenges existing in the healthcare sector. We aim to improve healthcare, and patient outcomes and ensure overall efficiency in disease prediction.
  
