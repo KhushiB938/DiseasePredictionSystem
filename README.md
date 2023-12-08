@@ -32,35 +32,27 @@ Early Detection: These systems aim to detect diseases at their earliest stages, 
 
 1.4 References: 
 •	Smith, A. (2020). Machine learning applications in disease prediction. Journal of Health Informatics, 15(3), 120-135.
-<br>
 •	Johnson, B. C. (2019). Machine Learning in Healthcare. Academic Press
-<br>
 •	Rodriguez, D., & Perez, S. (2018). A comparative analysis of disease prediction models using machine learning. In Proceedings of the International Conference on Health Informatics (ICHI) (pp. 45-52).
-<br>
 •	Wilson, E. (2021). Leveraging machine learning for early disease detection. HealthTech Journa
-<br>
 •	Heart disease prediction using supervised machine learning algorithms: Performance analysis and comparison Md Mamun Ali a , Bikash Kumar Paul a,b,c , Kawsar Ahmed b,c,* , Francis M. Bui d , Julian M. W. Quinn e , Mohammad Ali Moni e,f,
-<br>
 •	Disease Prediction System using Support Vector Machine and Multilinear Regression
-<br>
 •	International Journal of Innovative Research in Computer Science & Technology (IJIRCST) ISSN: 2347-5552, Volume, 8, Issue, 4, July, 2020
-<br>
  
 2. PROJECT DESCRIPTION 
  
-2.1 Reference Algorithm  <br>
-
-1. Logistic Regression <br>
-2. Support vector machine <br>
-2.2 Data/Data Structure <br>
+2.1 Reference Algorithm  
+1. Logistic Regression 
+2. Support vector machine
+2.2 Data/Data Structure 
 Data structures used for disease prediction:
-<br>
-1. Outlier treatment :  outlier treatment is the process of identifying and addressing outliers in a dataset. Outliers are data points that significantly differ from the majority of the data and can skew the results of statistical analyses. Outlier treatment is essential for ensuring the accuracy and reliability of data-driven decisions and models.
-<br>
-2. Sparse data structure :  
+
+1. Outlier treatment - outlier treatment is the process of identifying and addressing outliers in a dataset. Outliers are data points that significantly differ from the majority of the data and can skew the results of statistical analyses. Outlier treatment is essential for ensuring the accuracy and reliability of data-driven decisions and models.
+
+2. Sparse data structure  
 A sparse data structure is a data structure specifically designed to efficiently store and manipulate data in which a significant portion of the values are zero or null. In many applications, such as scientific computing, natural language processing, and certain types of databases, data can be sparse, meaning that only a small fraction of the data points actually contain meaningful information. Storing such data in a regular, dense data structure would be highly inefficient in terms of memory usage and computation time. Sparse data structures aim to address this issue by only storing non-zero or non-null values and their corresponding indices.
 
-2.3 SWOT Analysis <br>
+2.3 SWOT Analysis
 Strengths	Weaknesses
 - Can predict multiple diseases using a single analysis.	- The accuracy of the predictions may vary depending on the quality of the data used to train the model.
 - Can help doctors and patients make informed decisions about their health.	- The system may not be able to predict all diseases with equal accuracy.
@@ -101,6 +93,6 @@ Ensure that healthcare systems can scale to accommodate a growing number of pati
 5.Interoperability:
 Define standards and performance requirements for data exchange between different healthcare systems and devices to promote interoperability and seamless data sharing.
 Accuracy and Precision:
- For Heart Disease : 85% <br>
- For Parkinson’s Disease: 87% <br>
-For Diabetes: 77 % <br>
+ For Heart Disease : 85%
+ For Parkinson’s Disease: 87%
+For Diabetes: 77 %
