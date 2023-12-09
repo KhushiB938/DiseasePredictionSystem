@@ -66,16 +66,16 @@ For design and implementation, we will be using Streamlit for building our user 
  <br>
 3.2 System Interface  
  
-The Language we will use is Python.
+The Language we will use is Python.<br>
  
 3.3 Database Interface  
  
-We have our data set in Excel.
+We have our data set in Excel.<br>
  
 4. NON-FUNCTIONAL REQUIREMENTS 
  
 4.1 Performance Requirements  
-Performance requirements for a healthcare project outline the specific criteria and expectations regarding the performance of the project, its components, and the healthcare systems or services it aims to improve. These requirements ensure that the project meets its objectives, delivers high-quality healthcare services, and aligns with industry standards and best practices. Here are some key performance requirements for a healthcare project:
+Performance requirements for a healthcare project outline the specific criteria and expectations regarding the performance of the project, its components, and the healthcare systems or services it aims to improve. These requirements ensure that the project meets its objectives, delivers high-quality healthcare services, and aligns with industry standards and best practices. Here are some key performance requirements for a healthcare project:<br>
 
 1. Response Time:
 
