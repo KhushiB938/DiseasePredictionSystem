@@ -1,6 +1,6 @@
 # DiseasePredictionSystem
 
-Author - Khushi Bansal, Dhanraj Bhosale, Ritika Kumari 
+Author - Khushi Bansal, Dhanraj Bhosale, Ritika Kumari <br>
 1.	INTRODUCTION 
 The project includes a comprehensive overview of the Multiple Disease prediction model using machine learning (ML) models implemented in Python, and a user interface developed with Streamlit, the intuitive user interface to build an application. In today's world, the demand for healthcare data has significantly increased and allows us to develop accurate and user-friendly tools that will definitely ensure a significant impact on early diagnosis and treatment. The project focuses on addressing specific needs, and challenges existing in the healthcare sector. We aim to improve healthcare, and patient outcomes and ensure overall efficiency in disease prediction.
  
@@ -50,20 +50,20 @@ Early Detection: These systems aim to detect diseases at their earliest stages, 
 2.1 Reference Algorithm  
 1. Logistic Regression 
 2. Support vector machine
-2.2 Data/Data Structure 
-Data structures used for disease prediction:
+2.2 Data/Data Structure <br>
+Data structures used for disease prediction: <br>
 
 1. Outlier treatment - outlier treatment is the process of identifying and addressing outliers in a dataset. Outliers are data points that significantly differ from the majority of the data and can skew the results of statistical analyses. Outlier treatment is essential for ensuring the accuracy and reliability of data-driven decisions and models.
-
+<br>
 2. Sparse data structure  
 A sparse data structure is a data structure specifically designed to efficiently store and manipulate data in which a significant portion of the values are zero or null. In many applications, such as scientific computing, natural language processing, and certain types of databases, data can be sparse, meaning that only a small fraction of the data points actually contain meaningful information. Storing such data in a regular, dense data structure would be highly inefficient in terms of memory usage and computation time. Sparse data structures aim to address this issue by only storing non-zero or non-null values and their corresponding indices.
 
-
+<br>
 3. SYSTEM REQUIREMENTS  
- 
+ <br>
 3.1 User Interface  
 For design and implementation, we will be using Streamlit for building our user interface in Python. Spyder, and Collab for frontend and backend respectively.
- 
+ <br>
 3.2 System Interface  
  
 The Language we will use is Python.
@@ -84,13 +84,13 @@ Define acceptable response times for critical healthcare systems, such as electr
 
 2. System Availability:
 
-Specify the minimum allowable system downtime for healthcare applications to ensure availability for patient care and data access.
+Specify the minimum allowable system downtime for healthcare applications to ensure availability for patient care and data access. <br>
 3. Data Security and Privacy:
 
-Set performance requirements for data encryption, access controls, and authentication mechanisms to protect patient data in compliance with healthcare privacy regulations (e.g., HIPAA).
+Set performance requirements for data encryption, access controls, and authentication mechanisms to protect patient data in compliance with healthcare privacy regulations (e.g., HIPAA).<br>
 4. Scalability:
 
-Ensure that healthcare systems can scale to accommodate a growing number of patients and healthcare providers without compromising performance.
+Ensure that healthcare systems can scale to accommodate a growing number of patients and healthcare providers without compromising performance.<br>
 5.Interoperability:
 
 Define standards and performance requirements for data exchange between different healthcare systems and devices to promote interoperability and seamless data sharing.
